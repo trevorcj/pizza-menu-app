@@ -2,7 +2,7 @@
 
 This project is a React-based web application for managing and displaying a pizza menu. It allows users to browse through a list of pizzas, view detailed information about each item, and customize their orders. The app is designed to be responsive and user-friendly, making it suitable for both desktop and mobile devices.
 
-<a href="https://codesandbox.io/s/react-challenge-dev-profile-final-v2-e8zj9o" target="_blank">View Live</a>
+<a href="https://trevorcj-fast-react-pizza.netlify.app/" target="_blank">View Live</a>
 
 ## Features
 
